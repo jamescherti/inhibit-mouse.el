@@ -21,7 +21,6 @@ To install `inhibit-mouse` from MELPA:
 2. Add the following code to the Emacs init file:
 ```emacs-lisp
 (use-package inhibit-mouse
-  :ensure t
   :custom
   ;; Disable highlighting of clickable text such as URLs and hyperlinks when
   ;; hovered by the mouse pointer.

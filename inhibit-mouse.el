@@ -36,7 +36,6 @@
 ;; Installation from MELPA:
 ;; ------------------------
 ;; (use-package inhibit-mouse
-;;   :ensure t
 ;;   :commands inhibit-mouse-mode
 ;;   :hook (after-init . inhibit-mouse-mode))
 ;;
