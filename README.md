@@ -6,7 +6,7 @@
 ![](https://jamescherti.com/misc/made-for-gnu-emacs.svg)
 
 - Author: James Cherti <[https://www.jamescherti.com/](https://www.jamescherti.com/)>
-- License: GPL
+- License: GPL 3.0 or later
 
 The **[inhibit-mouse](https://github.com/jamescherti/inhibit-mouse.el)** package allows the disabling of mouse input in Emacs using `inhibit-mouse-mode`.
 
